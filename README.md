@@ -2,7 +2,7 @@
 ## Calculate normalized burn index 
 This Google Earth Engine API helps visualize the damage done of the Mendocino Complex fire in Northern California in 2018. Using the formula,
 
-Normalized Burn Ration = fracNIR - SWIRNIR + SWIR
+Normalized Burn Ration = NIR - SWIR / NIR + SWIR
 
 one could detect burned areas and estimate the severity of fires. It uses near-infrared and shortwave-infrared wavelengths.
 
