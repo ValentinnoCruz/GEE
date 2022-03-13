@@ -6,4 +6,4 @@ Normalized Burn Ration = NIR - SWIR / NIR + SWIR
 
 one could detect burned areas and estimate the severity of fires. It uses near-infrared and shortwave-infrared wavelengths.
 
-![Fire Image](https://github.com/ValentinnoCruz/GEE/blob/4098a1cd8e9580179e0ab378f3d3d53a3ce622ca/p1.png)
+![Fire Image](https://github.com/ValentinnoCruz/GEE/blob/a100665bb683abdb98f46c544dab279d78160cf8/p2.png)
